@@ -39,3 +39,4 @@ python -m utils.convert_weights pretrained/i3d_baseline_32x2_IN_pretrain_400k.pk
 ```bash
 python main.py --datasetpath=samplevideos/ --outputpath=output
 ```
+# I3D_Feature_Extractor
